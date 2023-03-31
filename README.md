@@ -2,4 +2,3 @@
 # Nombre de lo Miembros:
 
 # Ruben (commit1)
-# Diego (commit2)
